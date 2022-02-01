@@ -47,8 +47,6 @@ export default class RecursiveSheetComponent extends Vue {
   @Prop()
   public accessRight?: AccessRight;
 
-  public isShowChildren: boolean = false;
-
 }
 </script>
 
