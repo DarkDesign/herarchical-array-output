@@ -1,4 +1,4 @@
-import { AccessRightData } from "./AccessRightData";
+import { AccessRightData } from './AccessRightData';
 
 
 

@@ -1,4 +1,4 @@
-import { IAccessRightData } from '../services/AccessRightService/interfaces';
+import { IAccessRightData } from '../services/access-right-service/interfaces';
 import { getRandomInt, getRandomString } from './utils';
 
 

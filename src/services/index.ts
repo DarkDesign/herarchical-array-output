@@ -1,4 +1,4 @@
-import { AccessRightService } from "./AccessRightService/AccessRightService";
+import { AccessRightService } from './access-right-service/AccessRightService';
 
 export {
     AccessRightService
